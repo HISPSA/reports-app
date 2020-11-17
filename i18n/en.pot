@@ -44,6 +44,12 @@ msgstr ""
 msgid "Select Period Type"
 msgstr ""
 
+msgid "Select Number Of Signature"
+msgstr ""
+
+msgid "Number of signatures"
+msgstr ""
+
 msgid "Search"
 msgstr ""
 

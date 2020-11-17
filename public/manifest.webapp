@@ -1,0 +1,28 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "Reports App",
+  "version": "1.0.0",
+  "short_name": "Reports App",
+  "description": "Generate various types of reports",
+  "icons": {
+    "48": "favicon-48x48.png"
+  },
+  "developer": {
+    "url": "https://dhis2.github.io",
+    "name": "DHIS2"
+  },
+  "dhis2": {
+    "apiVersion": "33"
+  },
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "manifest_generated_at": "Wed Oct 14 2020 20:45:44 GMT+0200 (South Africa Standard Time)"
+}
