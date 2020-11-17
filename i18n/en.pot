@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2020-10-12T17:02:26.745Z\n"
-"PO-Revision-Date: 2020-10-12T17:02:26.745Z\n"
+"POT-Creation-Date: 2020-10-14T18:45:45.313Z\n"
+"PO-Revision-Date: 2020-10-14T18:45:45.313Z\n"
 
 msgid "Reports"
 msgstr ""
@@ -42,6 +42,9 @@ msgid "Select Group Set"
 msgstr ""
 
 msgid "Select Number Of Signature"
+msgstr ""
+
+msgid "Number of signatures"
 msgstr ""
 
 msgid "Show more options"
@@ -118,9 +121,6 @@ msgstr ""
 msgid ""
 "Browse the organisation unit distribution report based on the organisation "
 "unit group sets and its groups."
-msgstr ""
-
-msgid "Select Number of signatures"
 msgstr ""
 
 msgid "Report period"
