@@ -765,3 +765,9 @@ msgstr "Cargar fichero"
 
 msgid "Confirm delete"
 msgstr ""
+
+msgid "Select Number Of Signature"
+msgstr ""
+
+msgid "Number of signatures"
+msgstr ""
