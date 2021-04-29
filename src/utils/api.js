@@ -128,9 +128,10 @@ export const getDataSetReport = options => {
             options.orgUnitGroupsOptions
         ),
     }
-    const requestOptions = isCustomFormType(options.dataSet.formType)
+    /*const requestOptions = isCustomFormType(options.dataSet.formType)
         ? { headers: { Accept: 'text/html' } }
-        : {}
+        : {}*/
+    const requestOptions = {}
     const fileUrls = getDataSetReportFileUrls(endPoint, options)
 
     return api
